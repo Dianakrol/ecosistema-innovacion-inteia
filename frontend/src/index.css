@@ -1,1 +1,8 @@
 @import "tailwindcss";
+@import "flowbite";
+
+@layer base {
+    html.dark {
+        color-scheme: dark;
+    }
+}
