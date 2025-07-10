@@ -14,7 +14,7 @@ export default function App() {
       </header>
 
       <main className="py-16 px-6 max-w-5xl mx-auto text-center">
-        <h2 className="text-4xl font-bold text-indigo-700 mb-4">¡Adiós al Excel! ✨</h2>
+        <h2 className="text-4xl font-bold text-indigo-700 mb-4">¡Adiós al Excel!</h2>
         <p className="text-lg text-gray-700 mb-8">
           Con nuestra solución inteligente, explora y gestiona eventos y vinculadores sin perder tiempo buscando en hojas de cálculo.
         </p>
